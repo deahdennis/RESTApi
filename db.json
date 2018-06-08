@@ -1,8 +1,8 @@
 {
   "usuarios": [
-    { "id": 1, "name": "dennis", "clave": "12345678", "email": "dennis2deah@gmail.com" },
-    { "id": 2, "name": "usuario1", "clave": "usuario1234", "email": "usuario1@tecsup.edu.pe" },
-    { "id": 3, "name": "usuario2", "clave": "usuario1234", "email": "usuario2@tecsup.edu.pe" }
+    { "id": 1, "nombre": "dennis", "clave": "12345678", "email": "dennis2deah@gmail.com" },
+    { "id": 2, "nombre": "usuario1", "clave": "usuario1234", "email": "usuario1@tecsup.edu.pe" },
+    { "id": 3, "nombre": "usuario2", "clave": "usuario1234", "email": "usuario2@tecsup.edu.pe" }
   ],
   "peliculas": [
     { "usuarioId": 1, "id": 1, "nombre": "Los vengadores", "genero": "Accion" , "duracion" : "120" },
