@@ -20,5 +20,8 @@
     { "peliculaId": 1 , "id": 2, "comentario": "Buena trama , pero un poco predecible el final" },
     { "peliculaId": 2 , "id": 3, "comentario": "Pelicula con un triste final" },
     { "peliculaId": 3 , "id": 4, "comentario": "Buena pelicla para verla en familia" },
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
